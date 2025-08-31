@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Roguelike 2.5D game in Unreal Engine<br>👯 I’m looking to collaborate on - Proxmox <br>🌱 I’m currently learning - Kotlin<br>💬 Ask me about - Linux Administration
+🧑🏻‍🏫 Current work - Teacher at Univeristy West in Linux administration and Networking and security <br> 🔭 I’m currently working on - Roguelike 2.5D game in Unreal Engine<br>👯 I’m looking to collaborate on - Proxmox <br>🌱 I’m currently learning - Kotlin<br>💬 Ask me about - Linux Administration
 
 
 ## 🌐 Socials:
