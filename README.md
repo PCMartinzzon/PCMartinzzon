@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - A simple 2d RPG in Unreal Engine<br>👯 I’m looking to collaborate on - Simple Unreal Engine games <br>🌱 I’m currently learning - Python<br>💬 Ask me about - Linux Administration
+🔭 I’m currently working on - Roguelike 2.5D game in Unreal Engine<br>👯 I’m looking to collaborate on - Proxmox <br>🌱 I’m currently learning - Kotlin<br>💬 Ask me about - Linux Administration
 
 
 ## 🌐 Socials:
